@@ -10,6 +10,7 @@ Contents
    :maxdepth: 5
 
    Introduction <readme>
+   Installation <installation>
 
 
 
