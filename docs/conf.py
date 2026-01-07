@@ -102,7 +102,7 @@ copyright = "2023, Enes Dilber and Jonathan Terhorst"
 # If you don’t need the separation provided between version and release,
 # just set them both to the same value.
 try:
-    from demesinfer import __version__ as version
+    from demes import __version__ as version
 except ImportError:
     version = ""
 
