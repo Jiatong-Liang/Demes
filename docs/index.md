@@ -1,4 +1,4 @@
-## Welcome to momi's documentation!
+## Welcome to momii's documentation!
 
 ## Contents
 
