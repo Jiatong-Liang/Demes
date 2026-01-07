@@ -77,6 +77,9 @@ extensions = [
     "sphinx.ext.napoleon",
 ]
 
+# Add any paths that contain templates here, relative to this directory.
+templates_path = ["_templates"]
+
 # The suffix of source filenames.
 source_suffix = ".rst"
 
@@ -229,7 +232,7 @@ html_static_path = ["_static"]
 # html_file_suffix = None
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = "hello-doc"
+htmlhelp_basename = "momi3-doc"
 
 
 # -- Options for LaTeX output ------------------------------------------------
