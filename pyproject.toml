@@ -1,5 +1,5 @@
 [project]
-name = "demesinfer"
+name = "demes"
 version = "0.1.0"
 description = "Inference for demes-formatted demographic models"
 readme = "README.rst"
