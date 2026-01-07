@@ -1,10 +1,6 @@
-=====
-Welcome to momi's documentation!
-=====
+## Welcome to momi's documentation!
 
-
-Contents
-========
+## Contents
 
 ```{toctree}
 :maxdepth: 5
