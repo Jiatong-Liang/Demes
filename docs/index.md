@@ -1,6 +1,9 @@
-## Welcome to momii's documentation!
+Welcome to momii3's documentation!
+=====
 
-## Contents
+
+Contents
+========
 
 ```{toctree}
 :maxdepth: 5
