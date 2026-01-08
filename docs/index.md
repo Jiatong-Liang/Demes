@@ -1,6 +1,6 @@
 # Welcome to demestats' documentation
 
-[click here](https://popsim-consortium.github.io/demes-docs/latest/introduction.html)
+[`click here`](https://popsim-consortium.github.io/demes-docs/latest/introduction.html)
 
 
 ## Content
